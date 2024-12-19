@@ -1,0 +1,13 @@
+img{
+    width: 100px;
+}
+table{
+    border-collapse: collapse;
+    overflow-y: auto;
+}
+/* thead th{
+    border: 1px solid #ddd;
+}
+tbody td{
+    border: 1px solid #ddd;
+} */
